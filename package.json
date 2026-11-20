@@ -1,0 +1,33 @@
+{
+  "name": "resume-data-extractor",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "buffer": "^6.0.3",
+    "events": "^3.3.0",
+    "jszip": "^3.10.2",
+    "lucide-react": "latest",
+    "mammoth": "latest",
+    "papaparse": "latest",
+    "pdfjs-dist": "latest",
+    "process": "^0.11.10",
+    "react": "latest",
+    "react-dom": "latest",
+    "stream-browserify": "^3.0.0",
+    "tesseract.js": "^7.0.0",
+    "vite": "latest",
+    "word-extractor": "^1.0.4"
+  },
+  "devDependencies": {
+    "autoprefixer": "latest",
+    "postcss": "latest",
+    "tailwindcss": "3.4.17"
+  }
+}
